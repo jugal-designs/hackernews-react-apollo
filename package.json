@@ -1,6 +1,9 @@
 {
-  "name": "hackernews-react-apollo",
-  "version": "0.1.0",
+  "name": "spotlight-webapp",
+  "version": "1.0.0",
+  "repository": "git@github.com:jugal-designs/spotlight-webapp.git",
+  "author": "Administrator <admin@example.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "apollo-boost": "^0.1.12",
